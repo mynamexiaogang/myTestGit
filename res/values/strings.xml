@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">第一个android应用程序</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text1">用户名</string>
+    <string name="title">微信</string>
+    <string name="activity_name">启动界面</string>
+    <string name="name">请输入用户名</string>
+    <string name="password">请输入密码</string>
+    <string name="button">登录</string>
+    <string name="null1"></string>
+    
+
+</resources>
